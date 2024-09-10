@@ -1,12 +1,13 @@
-## Hi there 👋
+# OYIKT
 
-<!--
+  Oh Yeah It's Kim Time! 
 
-**Here are some ideas to get you started:**
+## 📄About Project
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  development the BigNumber operation and PKE
+  
+## 👨‍💻Members
+
+  1. 김용재 (email : rladydwocjsw@kookmin.ac.kr)
+  2. 김재효 (email : jejae0718@kookmin.ac.kr)
+  3. 오성빈 (email : 01sungbin@kookmin.ac.kr)
